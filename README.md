@@ -5,7 +5,7 @@
 ## Funcionalidades
 
 - **Análise de Dados**: Ferramentas para tratamento e análise de grandes volumes de dados.
-- **Visualização de Dados**: Gráficos e tabelas para facilitar a interpretação dos dados.
+- **Visualização de Dados**: Mapas e tabelas para facilitar a interpretação dos dados.
 - **Automatização de Processos**: Scripts para automatizar etapas repetitivas e reduzir tempo nas investigações.
 - **Integração com Colab**: O repositório está otimizado para rodar diretamente no Google Colab, facilitando o uso online.
 
