@@ -38,18 +38,12 @@ Contribuições são bem-vindas! Se você tem ideias para novas funcionalidades 
 
 ## Licença
 
-Creative Commons Attribution-NonCommercial 4.0 International License
-
-Copyright (c) 2024
-
-Este trabalho está licenciado sob a Licença Creative Commons Atribuição - Não Comercial 4.0 Internacional. Para visualizar uma cópia desta licença, acesse:
-
-http://creativecommons.org/licenses/by-nc/4.0/
+Este projeto está licenciado sob a licença Creative Commons Attribution-NonCommercial 4.0 International License. 
 
 Você é livre para:
 
 - Compartilhar — copiar e redistribuir o material em qualquer meio ou formato
-- Adaptar — remixar, transformar e criar a partir do material
+- Adaptar — transformar e criar a partir do material
 
 Sob as seguintes condições:
 
@@ -57,10 +51,5 @@ Sob as seguintes condições:
 
 - Não Comercial — Você não pode usar o material para fins comerciais.
 
-Nenhuma das condições acima pode ser aplicada de forma que restringisse outros direitos que a licença permite.
 
-A licença é fornecida "como está", sem garantias de qualquer tipo.
-
----
-
-Esse é um modelo básico que pode ser ajustado conforme o desenvolvimento do repositório. Você pode adicionar mais detalhes sobre funcionalidades específicas ou links para tutoriais, por exemplo.
+Consulte o arquivo LICENSE para mais detalhes.
