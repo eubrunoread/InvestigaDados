@@ -14,7 +14,7 @@
 ```
 ├── /datasets          # Conjunto de dados utilizados para as análises
 ├── /scripts           # Scripts para automação e análise de dados
-├── /notebooks         # Notebooks do Colab com exemplos de uso
+├── /notebook         # Notebooks do Colab com exemplos de uso
 ├── README.md          # Documentação do projeto
 ```
 
