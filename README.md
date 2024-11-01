@@ -20,12 +20,15 @@
 
 ## Como Usar
 
+
 1. Clone o repositório:
     ```bash
     git clone https://github.com/seuusuario/investigadados.git
     ```
-2. Abra o notebook desejado no Google Colab.
-3. Execute o código seguindo as instruções comentadas.
+ou
+
+1. Abra o notebook desejado no Google Colab.
+2. Execute o código seguindo as instruções comentadas.
 
 ## Pré-requisitos
 
